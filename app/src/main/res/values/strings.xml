@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Collection app</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="image_fragment_label">Image Fragment</string>
+    <string name="unsplash_images">Unsplash Images</string>
+
+</resources>
