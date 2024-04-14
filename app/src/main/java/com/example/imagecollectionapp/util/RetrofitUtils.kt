@@ -11,7 +11,7 @@ inline fun <reified T> Response<T>.getResponse(): T {
     val responseBody = body()
     Log.d(
         "RetrofitUtils",
-        "Global notification impl, #Abhi getResponse: responseBody = $responseBody"
+        "impl, getResponse: responseBody = $responseBody"
     )
     return if (this.isSuccessful && responseBody != null) {
         responseBody
