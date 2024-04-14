@@ -37,10 +37,6 @@ This is an Android application that fetches and displays images from the Unsplas
 ## Screenshots
 
 ![App Screenshot]
-(![Screenshot_2024-04-15-02-35-21-063_com example imagecollectionapp](https://github.com/anmolgupta22/Image-Collection-App/assets/92536916/f385c69f-389f-4e2f-bdac-6c70deea9d49))
+![Screenshot_2024-04-15-02-35-21-063_com example imagecollectionapp](https://github.com/anmolgupta22/Image-Collection-App/assets/92536916/f385c69f-389f-4e2f-bdac-6c70deea9d49)
 
-(https://github.com/anmolgupta22/Image-Collection-App/assets/92536916/b5c5f19f-02ff-4cd2-b575-842e9dcb0f38)
-
-
-
-
+https://github.com/anmolgupta22/Image-Collection-App/assets/92536916/b5c5f19f-02ff-4cd2-b575-842e9dcb0f38
